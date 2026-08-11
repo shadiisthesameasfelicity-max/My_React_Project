@@ -49,8 +49,3 @@ npm run build
 
 This project is open-source and free to use.
 
-
----
-
-اگر خواستی نسخهٔ **حرفه‌ای‌تر** یا **با Badges** هم بسازم، فقط بگو:  
-[نسخهٔ حرفه‌ای‌تر README](ca://s?q=نسخه_حرفه‌ای‌تر_README)
